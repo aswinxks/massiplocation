@@ -1,3 +1,20 @@
+Requirements Check
+Make sure you have these installed first:
+
+powershell
+# Check if Python is installed
+python --version
+
+# If not, install Python
+winget install Python.Python.3.12
+
+# Install required dependencies
+pip install requests
+
+
+
+
+
 Install Python 3 (if not already installed):
 
 # Check if Python is installed
