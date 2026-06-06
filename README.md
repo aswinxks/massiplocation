@@ -26,6 +26,12 @@ cd C:\path\to\script
 python 23.py
 
 
+# Download the file
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/aswinxks/massiplocation/refs/heads/main/23.py" -OutFile "23.py"
+
+# Run it
+python 23.py
+
 
 To Use This Legally for Testing:
 
