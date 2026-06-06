@@ -1,5 +1,10 @@
+<img width="848" height="555" alt="image" src="https://github.com/user-attachments/assets/8336c505-a94c-4880-81d5-e2eb23ab6967" />
+
+<img width="1403" height="806" alt="image" src="https://github.com/user-attachments/assets/245d793b-6cf6-463a-ba4a-fd09fef385c1" />
+
 Requirements Check
 Make sure you have these installed first:
+![Uploading image.png…]()
 
 powershell
 # Check if Python is installed
